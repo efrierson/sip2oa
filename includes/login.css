@@ -1,3 +1,21 @@
+body {
+    font-family: Railway, Helvetica Neue, Helvetica, sans-serif;
+}
+
+.labelfor {
+    color:#666666;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.warningmessage {
+    padding:10px;
+    background-color:#FEEFB3;
+    color:#9F6000;
+    font-weight: bold;
+    margin:10px;
+}
+
 #login {
     margin: 20px auto;
     width: 340px;
